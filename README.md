@@ -2,7 +2,7 @@
 a list of commonly used combinations of names, initials, and periods at that domain name. See "FirstMiddleLast 
 potential emails.txt" for a sample output.
 
-**fake_binary_counter.py:** I'm including it in this project because it elucidates the core logic of adding 
+**fake_binary_counter.py:** I'm including it in this project because it demonstrates the core logic of adding 
 permutations to a list without the added complexity of string slicing, permuting periods, and checking other string
 conditions.
 
